@@ -41,4 +41,4 @@ Counter to track minutes played.
 
 Be able to post the start of the match, half-time (with current score), start of second-half and full-time (with final score).
 
-Be able to post each score event: try, conversion, penalty scored, drop goal. Each score event to include the time of the event (minutes played).
+Be able to post each score event: try, conversion, penalty scored, drop goal. Each score event to include the time of the event (minutes played) and the updated match score.
